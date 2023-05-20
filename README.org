@@ -1,0 +1,9 @@
+* cl-slice
+
+Array slices for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tpapp/cl-slice.git |
+| commit  | c531683                                   |
+| systems | cl-slice                                  |
+|---------+-------------------------------------------|
