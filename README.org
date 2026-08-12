@@ -7,4 +7,4 @@ Array slices for Common Lisp
 | commit  | c531683                                   |
 | systems | cl-slice                                  |
 |---------+-------------------------------------------|
- 
+  
